@@ -1,0 +1,1 @@
+const openWeatherMapKey = "1cfa4efd233c1088de36b824137aa8c1";
